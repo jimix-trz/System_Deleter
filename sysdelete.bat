@@ -2,7 +2,7 @@
 
 title JIMIX-TRZ
 
-alert (yourName + ì BY JIMIX (UR D.A.D)î);
+alert (yourName + ‚Äú BY JIMIX (UR D.A.D.)‚Äù);
 
 *.FON
 
