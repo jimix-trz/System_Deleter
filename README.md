@@ -1,14 +1,3 @@
-# System_Deleter
-Deletes C:/Windows/System32 folder by execution.
-# Compability
+# Do NOT run it on your primary system, use of virtual environment recommended
+> I'm in no way responsible if it causes harm to your system, use at your own risk.
 
-Works with Windows systems.......obiviously! windows have System32
-directory.
-
-## Execution tip
-
-Disable any antivirus before running this
-
-## Usage
-
-Run it.....lol
